@@ -8,7 +8,7 @@ prophet==1.1.6
 pyspark==3.5.3
 scikit-learn==1.5.2
 streamlit==1.40.1
-streamlit_option_menu
+streamlit-option-menu==0.4.0
 streamlit-searchbox==0.1.19
 streamlit_folium==0.23.2
 gdown
